@@ -10,7 +10,7 @@ public class Drive : MonoBehaviour
     public float rotationSpeed = 100.0f;
     public GameObject fuel;
     bool autopilot = false;
-    float tspeed = 2f;
+    float tspeed = 4f;
     float rspeed = 0.2f;
 
     void Start()
